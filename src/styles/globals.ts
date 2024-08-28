@@ -1,4 +1,4 @@
-import {globalCss} from '@ignite-js-ui/react'
+import { globalCss } from '@ignite-js-ui/react'
 
 export const globalStyles = globalCss({
   '*': {
