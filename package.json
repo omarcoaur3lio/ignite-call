@@ -9,8 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ignite-js-ui/react": "^1.0.1",
+    "@ignite-js-ui/react": "^1.1.0",
     "next": "14.2.6",
+    "phosphor-react": "^1.4.1",
     "react": "^18",
     "react-dom": "^18"
   },
