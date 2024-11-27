@@ -54,7 +54,7 @@ model Session {
 
 model UserTimeInterval {
   id                    String @id @default(uuid())
-  weekDay               Int
+  week_day              Int
   time_start_in_minutes Int
   time_end_in_minutes   Int
 
